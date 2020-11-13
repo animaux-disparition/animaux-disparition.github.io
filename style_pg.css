@@ -26,6 +26,9 @@ td{
 
 p{
 	font-family: constantia;
+	-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-image: -webkit-linear-gradient(#98FB98, #20B2AA, #3CB371,#006400, #556B2F, #8FBC8F);
 }
 
 h4{
@@ -44,14 +47,17 @@ a{
 }
 
 a:hover{
-    color: #ff8400;
+    -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-image: -webkit-linear-gradient(#98FB98, #20B2AA, #3CB371,#006400, #556B2F, #8FBC8F);
+
 }
 ul {
   list-style-type: none;
 }
 ul li:before {
   content: "\2022";
-  color: #ff8400;
+  color: #12b000;
 }
 body{
 	background-color:#e0e0e0;
