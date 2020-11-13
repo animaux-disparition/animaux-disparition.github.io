@@ -1,0 +1,59 @@
+
+ol{
+	
+	font-family:Source Serif Pro Light;
+	font-size:12.4px;
+	color:white;
+	margin-left: -663px
+}
+
+h2{
+	font-family:Source Serif Pro Light;
+	font-size:45px;
+	color: black; text-shadow: black 0.1em 0.1em 0.2em
+}
+
+table{
+	font-family: constantia;
+  border-collapse: collapse
+  background-color:red;
+}
+
+td{
+  border: 1px solid black;
+  padding: 10px;
+  font-size:12px;
+}
+
+p{
+	font-family: constantia;
+}
+
+h4{
+	color:white;
+	background-image: url("fondtigre.jpg")
+
+}
+
+iframe{
+	max-width: 26%;
+}
+
+a{
+	text-decoration: none;
+	color:black;
+}
+
+a:hover{
+    color: #ff8400;
+}
+ul {
+  list-style-type: none;
+}
+ul li:before {
+  content: "\2022";
+  color: #ff8400;
+}
+body{
+	background-color:#e0e0e0;
+}

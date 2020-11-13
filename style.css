@@ -1,0 +1,32 @@
+
+ol{
+	
+	font-family:Source Serif Pro Light;
+	font-size:12.4px;
+	color:white;
+	margin-left: -663px
+}
+
+h1{
+	font-family:Source Serif Pro Light;
+	color:white;
+	font-size:42px;
+}
+
+body{
+	background-image: url("manchot.jpg")
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+
+a:hover{
+    color: black;
+}
+
+p{
+	font-size:10px;
+	margin-top:130px;
+}
