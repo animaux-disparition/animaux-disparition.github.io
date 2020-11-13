@@ -26,9 +26,7 @@ td{
 
 p{
 	font-family: constantia;
-	-webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-image: -webkit-linear-gradient(#98FB98, #20B2AA, #3CB371,#006400, #556B2F, #8FBC8F);
+
 }
 
 h4{
@@ -61,4 +59,9 @@ ul li:before {
 }
 body{
 	background-color:#e0e0e0;
+}
+div{
+	-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-image: -webkit-linear-gradient( #00cc00, #00b300, #009900, #008000)
 }

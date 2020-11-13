@@ -57,3 +57,8 @@ ul li:before {
 body{
 	background-color:#e0e0e0;
 }
+div{
+	-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-image: -webkit-linear-gradient( #ffc266, #ffb84d, #ffad33, #ffa31a, #ff9900, #e68a00)
+}
